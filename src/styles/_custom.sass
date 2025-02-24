@@ -166,9 +166,20 @@
     border-radius: 50%
 
 .slyder-a__bullets__item--active 
-    background-color: #0D66BF
+    background-color: #0D66BF !important
     border-color: #727997
     opacity: 1
+.slyder-a__bullets__item 
+    width: 15px
+    height: 15px
+    background-color: #727997
+    border-radius: 50%
+    box-shadow: 0 0 5px 0px rgba(0, 0, 0, 0)
+    margin: 0 10px
+    cursor: pointer
+    opacity: 0.7
+    transition: opacity 0.3sease-in-out, box-shadow 0.3sease-in-out
+    border: 1px solid #727997
 
 .tarjeta-numerada.color-secundario 
     border-color: #FF725D
@@ -312,4 +323,11 @@
 
 .text-right
   text-align: right
+ 
+
+.banner-interno__titulo h2,
+    color: black
+
+.banner-interno__titulo__icono i
+    color: black
  
