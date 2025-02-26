@@ -307,23 +307,23 @@
             SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
               .row.justify-content-center.p-4
                 .col-lg-12.my-3
-                  h4.mb-4 Barcode Studio #[em (Windows y Mac® OS)]
+                  h4.mb-4 Barcode Studio (Windows y Mac® OS)
                   p.mb-4 Proporciona una forma fácil y adecuada de crear códigos de barras visualmente y exportarlos como imagen o como un fichero de gráficos vectoriales, ofreciendo capacidades muy eficientes de impresión en las etiquetas.
                   img(alt="" src="@/assets/curso/tema1/img19.png")
               .row.justify-content-center.p-4
                 .col-lg-12.my-3
-                  h4.mb-4 #[em TBarCode Office]
-                  p.mb-4 El complemento de código de barras #[em TBarCode Office] se integra perfectamente en #[em Microsoft Office] y es fácil de utilizar gracias a su intuitiva interfaz de usuario. Además, proporciona acceso a todos los parámetros del código de barras. Esta combinación hace de #[em TBarCode Office] el complemento de código de barras más avanzado del mercado.
+                  h4.mb-4 TBarCode Office
+                  p.mb-4 El complemento de código de barras TBarCode Office se integra perfectamente en Microsoft Office y es fácil de utilizar gracias a su intuitiva interfaz de usuario. Además, proporciona acceso a todos los parámetros del código de barras. Esta combinación hace de TBarCode Office el complemento de código de barras más avanzado del mercado.
                   img(alt="" src="@/assets/curso/tema1/img20.png")
               .row.justify-content-center.p-4
                 .col-lg-7.col-12.my-3
-                  h4.mb-4 #[em TBarCode SDK]
-                  p.mb-4 El componente de #[em software] de código de barras #[em TBarCode] “Todo En Uno” (para Microsoft® Windows), genera e imprime todos los códigos de barras con aplicaciones diversas y cualquier tipo de impresora. Este flexible generador de código de barras soporta más de 100 tipos de códigos de barras diferentes. Entre ellos se encuentran códigos de barras lineales y 2D como Code128, EAN128, Datamatrix, QR Code, PDF417, Aztec Code, GS1 DataBar.
+                  h4.mb-4 TBarCode SDK
+                  p.mb-4 El componente de #[em software] de código de barras TBarCode “Todo En Uno” (para Microsoft® Windows), genera e imprime todos los códigos de barras con aplicaciones diversas y cualquier tipo de impresora. Este flexible generador de código de barras soporta más de 100 tipos de códigos de barras diferentes. Entre ellos se encuentran códigos de barras lineales y 2D como Code128, EAN128, Datamatrix, QR Code, PDF417, Aztec Code, GS1 DataBar.
                 .col-lg-4.col-md-7.my-3
                   img(alt="" src="@/assets/curso/tema1/img21.png")
               .row.justify-content-center.p-4
                 .col-lg-7.col-12.my-3
-                  h4.mb-4 #[em TBarCode/X]
+                  h4.mb-4 TBarCode/X
                   p.mb-4 Es un complemento de #[em software] de código de barras para Linux®, UNIX® y Mac OS X. Permite producir todos los formatos más comunes de código de barras (lineales, 2D y compuestos) con una calidad perfecta creando códigos de barras automáticamente durante la impresión “sobre la marcha”. De este modo, puede convertir cada impresora de la empresa en una impresora de código de barras sin costes adicionales.
                 .col-lg-4.col-md-7.my-3
                   img(alt="" src="@/assets/curso/tema1/img22.png")

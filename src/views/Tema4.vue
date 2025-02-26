@@ -85,7 +85,7 @@
 
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
-        h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") c) Reconteo: concepto, usos Reconteo
+        h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") c) Reconteo: concepto, usos reconteo
         img.icon(src='@/assets/curso/tema1/icon.svg')
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
