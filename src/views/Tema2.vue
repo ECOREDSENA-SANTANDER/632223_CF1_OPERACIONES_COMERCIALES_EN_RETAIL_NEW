@@ -179,7 +179,7 @@
               .col-lg-2.mb-4
                 img.img-a.img-t(src="@/assets/curso/tema2/img8.svg")
               .col-lg-10.mb-4
-                p.mb-0 Tiene la capacidad de generar facturas rápidamente (en cuestión de segundos) utilizando una solución de punto de venta (POS, por sus siglas en inglés: Point of Sale) que opera a través de la nube. 
+                p.mb-0 Tiene la capacidad de generar facturas rápidamente (en cuestión de segundos) utilizando una solución de punto de venta (POS, por sus siglas en inglés: #[em Point of Sale]) que opera a través de la nube. 
 
     separador
     #t_2_3.titulo-segundo.mb-5

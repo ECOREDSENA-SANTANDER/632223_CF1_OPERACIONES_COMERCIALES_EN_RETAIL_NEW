@@ -20,7 +20,7 @@
         h2 1.1. Conceptos básicos
       
       p.mb-4(data-aos="fade-left") Para explicar la logística  comercial, se puede decir que es la responsabilidad y actividad que lleva a cabo una empresa para organizar, prever y controlar el movimiento de información, materias primas y productos finales, desde las fases de aprovisionamiento hasta su llegada al usuario final.
-      p.mb-4(data-aos="fade-left") Es así como la logística comercial se apoya de los siguientes conceptos :
+      p.mb-4(data-aos="fade-left") Es así como la logística comercial se apoya de los siguientes conceptos:
   
       .row.justify-content-center.align-items-end(data-aos="fade-right")
         .col-lg-8.col-md-12.col-12
