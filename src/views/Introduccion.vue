@@ -15,7 +15,7 @@
       .col-lg-12.col-12.col-md-12
         figure(data-aos="fade-right").py-2
           .video.mb-1
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2aGxiWvwL-U?si=L0ZNG0eUFxgKEeWO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/zzpRrtPTW7s?si=bNp113_XrWsUBBrB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           figcaption Video. Manejo de inventarios en el #[em Retail]: introducción
 </template>
 

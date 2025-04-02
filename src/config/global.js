@@ -66,8 +66,7 @@ export default {
           },
           {
             numero: '1.6',
-            titulo:
-              '<em>Software</em> para la captura de código de barras: características, funcionalidad, tipos',
+            titulo: '<em>Software</em> para la captura de código de barras',
             hash: 't_1_6',
           },
         ],
@@ -129,8 +128,7 @@ export default {
           },
           {
             numero: '3.5',
-            titulo:
-              '<em>Stock</em> de mercancía: concepto, niveles, clases, funciones',
+            titulo: '<em>Stock</em> de mercancía',
             hash: 't_3_5',
           },
         ],
@@ -288,7 +286,7 @@ export default {
     },
     {
       referencia:
-        'Guía de control de inventarios: qué es, cómo hacerlo y ejemplos. (2023, 19 julio).',
+        'Qué son las técnicas de organización (y por qué usarlas en la empresa).',
       link:
         'https://blog.hubspot.es/sales/que-es-control-de-inventarios#:~:text=El%20control%20de%20inventarios%20es,recursos%20para%20su%20correcto%20almacenaje',
     },
