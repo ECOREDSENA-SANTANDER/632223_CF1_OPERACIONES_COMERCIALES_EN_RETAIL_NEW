@@ -10,7 +10,7 @@
               img(src="@/assets/template/completar.svg", alt="Texto que describa la imagen")
         .col-12.col-md-8.col-lg-9
           .titulo-segundo
-            h2 Conceptos de Manejo de inventarios en el #[em retail] 
+            h2 Conceptos de manejo de inventarios en el #[em retail] 
           p.mb-4 Identificar la apropiación de los contenidos en la temática sobre manejo de inventarios en el #[em retail]
           .tarjeta.actividad.p-3
             .row.justify-content-around.align-items-center            

@@ -17,7 +17,7 @@
   
       separador
       #t_1_1.titulo-segundo.mb-5
-        h2 1.1. Conceptos básicos
+        h2 1.1 Conceptos básicos
       
       p.mb-4(data-aos="fade-left") Para explicar la logística  comercial, se puede decir que es la responsabilidad y actividad que lleva a cabo una empresa para organizar, prever y controlar el movimiento de información, materias primas y productos finales, desde las fases de aprovisionamiento hasta su llegada al usuario final.
       p.mb-4(data-aos="fade-left") Es así como la logística comercial se apoya de los siguientes conceptos:
@@ -73,13 +73,13 @@
                       img(src='@/assets/curso/tema1/img8.svg', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Gestión de la cadena de suministro
-                    p.mb-4 De acuerdo con las siglas en inglés #[em SCM (Supply Chain Management)], se describe a la gestión de la cadena de suministro como la optimización del espacio y el flujo de un producto desde el abastecimiento de la materia prima hasta la producción, la logística y la entrega al cliente final.
+                    p.mb-4 De acuerdo con las siglas en inglés #[em SCM (Supply Chain Management)], se describe a la gestión de la cadena de suministro como la optimización del espacio y el flujo de un producto, desde el abastecimiento de la materia prima hasta la producción, la logística y la entrega al cliente final.
         .col-lg-4.col-md-7.col-7
           img(src="@/assets/curso/tema1/img2.png")
   
       separador
       #t_1_2.titulo-segundo.mb-5
-        h2 1.2. Inventario: concepto, característica, clasificación 
+        h2 1.2 Inventario: concepto, característica, clasificación 
   
       .row.justify-content-center.align-items-end.mb-4
         .col-lg-4.col-md-7.col-7.mb-4
@@ -151,7 +151,7 @@
       .row.justify-content-center.align-items-center(data-aos="fade-right")
         .col-lg-8.col-md-12.col-12.mb-4
           p.mb-4 En otro orden de ideas, las aplicaciones informáticas de base de datos y hojas de cálculo aplicado a la gestión de inventarios son las más comunes, como herramientas de control en los diferentes #[em retail] o formatos comerciales del mercado.
-          p.mb-4 Para la gestión y control de los inventarios existen en el mercado multitud de #[em softwares] que permiten dicha labor de la manera más eficiente. Evidentemente, dichas aplicaciones son generalmente de pago y producidas por grandes compañías como Microsoft o SAP cuyos costes, en la mayoría de los casos, son imposibles de sufragar para muchas empresas.
+          p.mb-4 Para la gestión y control de los inventarios existen en el mercado multitud de #[em software] que permiten dicha labor de la manera más eficiente. Evidentemente, dichas aplicaciones son generalmente de pago y producidas por grandes compañías como Microsoft o SAP, cuyos costes, en la mayoría de los casos, son imposibles de sufragar para muchas empresas.
           .cajon.color-acento-contenido.p-4.mb-4
             p.mb-0 Existen diferentes empresas, con presupuestos y recursos que varían notablemente en cuantía, esto no debería ser un impedimento para la consecución de herramientas para este fin, ya que a través de aplicaciones como #[em Excel] o la utilización de #[em software] libre o gratuito le permitirían tener una gestión aceptable de su proceso de control y gestión de inventarios.
           p.mb-4 En aquellas empresas donde los inventarios adquieren volúmenes realmente grandes, la utilización de estas herramientas ofimáticas no resulta viable ni eficaz, por lo que recurrir a las aplicaciones de pago antes mencionadas es la única opción que tienen para realizar una correcta gestión de sus inventarios.
@@ -226,12 +226,12 @@
             ul.lista-ul.mb-0
               li.d-flex.mb-0
                 i.fas.fa-circle
-                p.mb-0 En la lista de compra gracias al mismo se puede ver con claridad cada artículo adquirido y facilitar la validación por parte del comprador.
+                p.mb-0 En la lista de compra, gracias al mismo, se puede ver con claridad cada artículo adquirido y facilitar la validación por parte del comprador.
           .bg3.p-2.mb-2
             ul.lista-ul.mb-0
               li.d-flex.mb-0
                 i.fas.fa-circle
-                p.mb-0 Permite tener un control y visión estadística que ayude en la toma de decisiones dentro de la estrategia empresarial.
+                p.mb-0 Permite tener un control y visión estadística que ayuden en la toma de decisiones dentro de la estrategia empresarial.
           .bg3.p-2.mb-2
             ul.lista-ul.mb-0
               li.d-flex.mb-0
@@ -262,16 +262,16 @@
                 .col-lg-12.col-md-12.col-12
                   p.mb-3 #[b Código de barras UPC #[em (Universal Product Code)]]
                   p.mb-0 El código UPC (siglas de #[em Universal Product Code]) es un código de barras diseñado especialmente para identificar de manera inequívoca productos y consiste en un número único de 12 dígitos que se representan por barras de diferentes anchos y separación entre ellas para ser legibles por un #[em scanner] especializado.
-            .tarjeta.color-acento-botones.bg7.p-4(titulo="Code 39")
+            .tarjeta.color-acento-botones.bg7.p-4(titulo="<em>Code</em> 39")
               .row.justify-content-center.align-items-center
                 .col-lg-12.col-md-12.col-12
-                  p.mb-3 #[b Código de barras Code 39 (Code 3 of 9)]
+                  p.mb-3 #[b Código de barras #[em Code] 39 (#[em Code] 3 #[em of] 9)]
                   p.mb-0 Este es el tipo de código de barras más utilizado en aplicaciones personalizadas. Su popularidad se debe a que puede codificar tanto texto como números (A-Z, 0-9, +, -, ., y < espacio >). Además, puede ser leído por prácticamente cualquier lector de código de barras en su configuración predeterminada. 
-            .tarjeta.color-acento-botones.bg7.p-4(titulo="Code 128")
+            .tarjeta.color-acento-botones.bg7.p-4(titulo="<em>Code</em> 128")
               .row.justify-content-center.align-items-center
                 .col-lg-12.col-md-12.col-12
-                  p.mb-3 #[b CODE 128]
-                  p.mb-0 CODE 128 es un código de barras desarrollado por Computer Identics Corporation (EE. UU.) en 1981. El código de barras CODE 128 puede representar todos los 128 caracteres del código ASCII (números, mayúsculas/minúsculas de alfabetos, símbolos y códigos de control).
+                  p.mb-3 #[b #[em CODE] 128]
+                  p.mb-0 #[em CODE] 128 es un código de barras desarrollado por Computer Identics Corporation (EE. UU.) en 1981. El código de barras #[em CODE] 128 puede representar todos los 128 caracteres del código ASCII (números, mayúsculas/minúsculas de alfabetos, símbolos y códigos de control).
             .tarjeta.color-acento-botones.bg7.p-4(titulo="ITF")
               .row.justify-content-center.align-items-center
                 .col-lg-12.col-md-12.col-12
@@ -318,7 +318,7 @@
               .row.justify-content-center.p-4
                 .col-lg-7.col-12.my-3
                   h4.mb-4 TBarCode SDK
-                  p.mb-4 El componente de #[em software] de código de barras TBarCode “Todo En Uno” (para Microsoft® Windows), genera e imprime todos los códigos de barras con aplicaciones diversas y cualquier tipo de impresora. Este flexible generador de código de barras soporta más de 100 tipos de códigos de barras diferentes. Entre ellos se encuentran códigos de barras lineales y 2D como Code128, EAN128, Datamatrix, QR Code, PDF417, Aztec Code, GS1 DataBar.
+                  p.mb-4 El componente de #[em software] de código de barras TBarCode “Todo En Uno” (para Microsoft® Windows), genera e imprime todos los códigos de barras con aplicaciones diversas y cualquier tipo de impresora. Este flexible generador de código de barras soporta más de 100 tipos de códigos de barras diferentes. Entre ellos se encuentran códigos de barras lineales y 2D como #[em Code]128, EAN128, Datamatrix, QR #[em Code], PDF417, Aztec #[em Code], GS1 DataBar.
                 .col-lg-4.col-md-7.my-3
                   img(alt="" src="@/assets/curso/tema1/img21.png")
               .row.justify-content-center.p-4

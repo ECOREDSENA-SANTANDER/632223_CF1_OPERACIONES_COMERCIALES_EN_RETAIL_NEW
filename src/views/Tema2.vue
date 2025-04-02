@@ -48,27 +48,27 @@
             .cajablanca.p-4
               .row.justify-content-center.align-items-end.mb-4
                 .col-lg-8.col-md-12.col-12.mb-4
-                  h4.text-center.mb-5 Acta de Inicio y Terminación de la Verificación Física del Inventario
-                  p.mb-2 #[b I. Datos Generales]
+                  h4.text-center.mb-5 Acta de inicio y terminación de la verificación física del inventario
+                  p.mb-2 #[b I. Datos generales]
                   ul.lista-ul.mb-0.ps-3
                     li.d-flex.mb-0
                       i.fas.fa-circle
-                      p.mb-0 #[b Fecha de Inicio:] [fecha de inicio de la verificación].
+                      p.mb-0 #[b Fecha de inicio:] [fecha de inicio de la verificación].
                     li.d-flex.mb-0
                       i.fas.fa-circle
-                      p.mb-0 #[b Fecha de Terminación:] [fecha de terminación de la verificación].
+                      p.mb-0 #[b Fecha de terminación:] [fecha de terminación de la verificación].
                     li.d-flex.mb-0
                       i.fas.fa-circle
                       p.mb-0 #[b Lugar:] [ubicación donde se realiza la verificación].
                     li.d-flex.mb-0
                       i.fas.fa-circle
-                      p.mb-0 #[b Responsable del Proceso:] [nombre del responsable].
+                      p.mb-0 #[b Responsable del proceso:] [nombre del responsable].
                     li.d-flex.mb-0
                       i.fas.fa-circle
-                      p.mb-4 #[b Equipo de Verificación:] [nombres de los miembros del equipo].
-                  p.mb-2 #[b II. Objetivo de la Verificación]
+                      p.mb-4 #[b Equipo de verificación:] [nombres de los miembros del equipo].
+                  p.mb-2 #[b II. Objetivo de la verificación]
                   p.mb-4 El objetivo de esta verificación física del inventario es asegurar la exactitud y confiabilidad de los registros de inventario, y garantizar que el inventario físico coincide con los registros contables.
-                  p.mb-2 #[b III. Procedimiento de Verificación]
+                  p.mb-2 #[b III. Procedimiento de verificación]
                   p.mb-2 #[b 1. Preparación:]
                   ul.lista-ul.mb-0.ps-3
                     li.d-flex.mb-0
@@ -99,23 +99,23 @@
                     li.d-flex.mb-0
                       i.fas.fa-circle
                       p.mb-4 Preparación del informe final de verificación.
-                  p.mb-2 #[b IV. Resultados de la Verificación]
+                  p.mb-2 #[b IV. Resultados de la verificación]
                   ul.lista-ul.mb-0.ps-3
                     li.d-flex.mb-0
                       i.fas.fa-circle
-                      p.mb-0 #[b Total, de Ítems Verificados:] [número total de ítems verificados].
+                      p.mb-0 #[b Total, de ítems verificados:] [número total de ítems verificados].
                     li.d-flex.mb-0
                       i.fas.fa-circle
-                      p.mb-0 #[b Discrepancias Encontradas:] [detalle de las discrepancias encontradas].
+                      p.mb-0 #[b Discrepancias encontradas:] [detalle de las discrepancias encontradas].
                     li.d-flex.mb-0
                       i.fas.fa-circle
-                      p.mb-4 #[b Ajustes Realizados:] [detalle de los ajustes realizados en los registros de inventario].
-                  p.mb-2 #[b V. Conclusiones y Recomendaciones]
+                      p.mb-4 #[b Ajustes realizados:] [detalle de los ajustes realizados en los registros de inventario].
+                  p.mb-2 #[b V. Conclusiones y recomendaciones]
                   p.mb-4 [Conclusiones derivadas del proceso de verificación y recomendaciones para futuras acciones].
                   p.mb-4 #[b VI. Firma de los responsables]
-                  p.mb-2.ps-4 Nombre del responsable del Proceso: [nombre].
+                  p.mb-2.ps-4 Nombre del responsable del proceso: [nombre].
                   p.mb-4.ps-4 Firma: _______________________________
-                  p.mb-4 #[b VII. Aprobación Final]
+                  p.mb-4 #[b VII. Aprobación final]
                   p.mb-2.ps-4 Nombre del Supervisor/Director: [nombre].
                   p.mb-4.ps-4 Firma: _______________________________
     

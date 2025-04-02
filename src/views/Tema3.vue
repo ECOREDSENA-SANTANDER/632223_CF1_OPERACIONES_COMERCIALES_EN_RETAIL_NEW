@@ -5,7 +5,7 @@
     .titulo-principal.color-secundario
       .titulo-principal__numero
         span 3
-      h1 Gestión de inventario
+      h1 Gestión de productos
     
     .row.justify-content-center.align-items-center
       .col-lg-10.col-md-12.col-12
@@ -14,9 +14,8 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema3/img1.png')})`}"
           )
           .bloque-texto-g__texto.p-3
-            .bg6.p-1.ps-1.pe-1
+            .bg6.p-2.ps-3.pe-3.d-flex
               h5.mb-0 Lo único constante en esta vida es el cambio.
-            br
             br
             | 
             p Esta frase refleja una realidad natural que afecta tanto a las personas como a las empresas y, por supuesto, a sus productos, que constituyen su principal razón de ser y contribución a la sociedad. La gestión de productos es una función empresarial que guía el ciclo de vida y la innovación de nuevos productos, centrándose primero en el producto y en sus clientes.
@@ -96,7 +95,7 @@
     
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-9.col-md-12.col-12
-        p.mb-4 Dentro de las características generales de un producto, hay dos divisiones :
+        p.mb-4 Dentro de las características generales de un producto, hay dos divisiones:
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.col-xl-11.m-auto(titulo="Características perceptibles")
             p.mb-4 Entre las características perceptibles de los productos encontramos:

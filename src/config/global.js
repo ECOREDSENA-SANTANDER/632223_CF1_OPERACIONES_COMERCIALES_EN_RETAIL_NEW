@@ -190,14 +190,14 @@ export default {
   complementario: [
     {
       tema: 'Gestión logística de inventarios en el punto de venta',
-      referencia: 'Puerta, L.F. (s.f.). Seminario de carga.',
+      referencia: 'Puerta, L.F. (s.f.). Seminario manejo de carga.',
       tipo: 'PDF',
       link: 'downloads/seminario_de_carga.pdf',
     },
     {
       tema: 'Gestión logística de inventarios en el punto de venta',
       referencia:
-        'Compartamos banco. (2016). ¿Por qué es importante controlar el inventario de mi negocio? [Video]. YouTube.',
+        'Compartamos banco. (2016). ¿Por qué es importante controlar el inventario? [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/AJaii3mpuJ4',
     },
@@ -218,7 +218,7 @@ export default {
     {
       termino: 'Control',
       significado:
-        'acción de revisión para comprobar que todo se ajusta a los previsto y añadir las variaciones.',
+        'acción de revisión para comprobar que todo se ajusta a lo previsto y añadir las variaciones.',
     },
     {
       termino: 'Demanda',
@@ -282,7 +282,7 @@ export default {
         'https://archive.org/details/principiosdemerc0000cesp/page/466/mode/2up',
     },
     {
-      referencia: 'Kotler, P. (2017). Fundamentos del marketing.',
+      referencia: 'Kotler, P. (2017). Fundamentos del <em>marketing</em>.',
       link:
         'https://frrq.cvg.utn.edu.ar/pluginfile.php/14584/mod_resource/content/1/Fundamentos%20del%20Marketing-Kotler.pdf',
     },

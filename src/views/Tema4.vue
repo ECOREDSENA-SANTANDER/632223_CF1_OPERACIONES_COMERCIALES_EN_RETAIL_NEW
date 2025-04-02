@@ -25,7 +25,7 @@
 
     .row.justify-content-center.align-items-end.mb-4(data-aos="fade-right")
       .col-lg-8.col-md-12.col-12.mb-4
-        p.mb-4 La devolución de pedidos o logística inversa se utiliza para coordinar los movimientos de los productos. Su función principal es recuperar el #[em stock] teniendo presentes distintas variables, como diferentes trámites administrativos, Re etiquetado, destrucción y reciclaje.
+        p.mb-4 La devolución de pedidos o logística inversa se utiliza para coordinar los movimientos de los productos. Su función principal es recuperar el #[em stock] teniendo presentes distintas variables, como diferentes trámites administrativos, Reetiquetado, destrucción y reciclaje.
         .cajon.color-acento-contenido.p-4
           p.mb-0 El procedimiento de devolución está regulado, según la legislación comercial de cada país, ya que es un procedimiento de gestión tributaria adherido por la declaración que cada organización debe presentar a su sistema tributario. 
       .col-lg-4.col-md-7.col-7.mb-4
