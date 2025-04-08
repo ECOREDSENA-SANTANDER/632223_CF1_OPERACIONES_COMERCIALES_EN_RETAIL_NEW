@@ -66,7 +66,8 @@ export default {
           },
           {
             numero: '1.6',
-            titulo: '<em>Software</em> para la captura de código de barras',
+            titulo:
+              '<em>Software</em> para la captura de código de barras: características, funcionalidad, tipos',
             hash: 't_1_6',
           },
         ],
@@ -286,9 +287,8 @@ export default {
     },
     {
       referencia:
-        'Qué son las técnicas de organización (y por qué usarlas en la empresa).',
-      link:
-        'https://blog.hubspot.es/sales/que-es-control-de-inventarios#:~:text=El%20control%20de%20inventarios%20es,recursos%20para%20su%20correcto%20almacenaje',
+        'Xmarts. (2025, 13 febrero). Guía Completa de Control de Inventarios 2025: Qué es, Cómo Hacerlo y Ejemplos - Xmarts. Xmarts - Libera el potencial de tu empresa.',
+      link: 'https://xmarts.com/guia-completa-de-control-de-inventarios/',
     },
   ],
   creditos: [

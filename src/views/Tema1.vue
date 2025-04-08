@@ -295,7 +295,7 @@
         
       separador
       #t_1_6.titulo-segundo.mb-5
-        h2 1.6 #[em Software] para la captura de código de barras
+        h2 1.6 #[em Software] para la captura de código de barras: características, funcionalidad, tipos
   
       p.mb-4(data-aos="fade-left") Existen diversos #[em software] para la captura de los códigos de barras, algunos de ellos son:
   
