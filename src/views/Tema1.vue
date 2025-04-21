@@ -271,7 +271,7 @@
               .row.justify-content-center.align-items-center
                 .col-lg-12.col-md-12.col-12
                   p.mb-3 #[b #[em Code] 128]
-                  p.mb-0 #[em Code] 128 es un código de barras desarrollado por Computer Identics Corporation (EE. UU.) en 1981. El código de barras #[em CODE] 128 puede representar todos los 128 caracteres del código ASCII (números, mayúsculas/minúsculas de alfabetos, símbolos y códigos de control).
+                  p.mb-0 #[em Code] 128 es un código de barras desarrollado por Computer Identics Corporation (EE. UU.) en 1981. El código de barras #[em Code] 128 puede representar todos los 128 caracteres del código ASCII (números, mayúsculas/minúsculas de alfabetos, símbolos y códigos de control).
             .tarjeta.color-acento-botones.bg7.p-4(titulo="ITF")
               .row.justify-content-center.align-items-center
                 .col-lg-12.col-md-12.col-12
